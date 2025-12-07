@@ -1,8 +1,0 @@
-what is python
-[Key.shift_r]
-
-print
-[Key.shift]([Key.tab][Key.shift_r]
-
-
-hi how are you [Key.shift][Key.shift][Key.shift][Key.ctrl_l]<191>[Key.tab][Key.ctrl_l]\x03
